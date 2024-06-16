@@ -2,7 +2,7 @@
 
 This repository contains code for a machine learning project focused on binary classification of skin lesions to distinguish between cancerous and non-cancerous cases.
 
-# Project Overview
+# Overview
 
 This project aims to develop a machine learning model to classify skin lesions as either cancerous or non-cancerous based on image data. Early detection of skin cancer can significantly improve prognosis, making this project valuable for healthcare applications.
 
@@ -22,3 +22,10 @@ This project aims to develop a machine learning model to classify skin lesions a
    i. Analyzed model performance metrics, including accuracy, precision, recall, and F1-score.
    ii. Visualized results with graphs and charts to illustrate training progress and validation performance.
    iii. Discussed insights gained from the project and potential applications in clinical settings.
+
+# Files Included
+
+1. Z_Rock_ML_Internship_Project_2.ipynb
+2. best_model.h5
+3. skin_cancer_classifier.h5
+4. requirements.txt
