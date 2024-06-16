@@ -6,6 +6,9 @@ This repository contains code for a machine learning project focused on binary c
 
 This project aims to develop a machine learning model to classify skin lesions as either cancerous or non-cancerous based on image data. Early detection of skin cancer can significantly improve prognosis, making this project valuable for healthcare applications.
 
+# Dataset
+Download dataset used in this project from here: https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset
+
 # Steps invloved
 
 1. Data Collection: Gathered a diverse dataset of skin lesion images, categorizing them into cancerous and non-cancerous classes. The dataset includes training and validation sets for model development and testing.
