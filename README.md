@@ -1,1 +1,1 @@
-# zrock-internship-2024-project2
+# Project-2: Disease Diagnosis
