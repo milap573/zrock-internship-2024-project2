@@ -28,9 +28,9 @@ Download dataset used in this project from here: https://www.kaggle.com/datasets
 
 # Files Included
 
-1. Z_Rock_ML_Internship_Project_2.ipynb
-2. best_model.h5
-3. skin_cancer_classifier.h5
+1. Z_Rock_ML_Internship_Project_2.ipynb: Jupyter notebook containing the entire project code and detailed explanations.
+2. best_model.h5: Optimized skin cancer classification model saved during training, based on highest validation performance.
+3. skin_cancer_classifier.h5: Final trained model for skin cancer detection from images, ready for deployment in medical diagnostics.
 4. requirements.txt
 
 #Installation
