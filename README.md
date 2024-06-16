@@ -37,8 +37,8 @@ Download dataset used in this project from here: https://www.kaggle.com/datasets
 
 # Installation
 Use the following commands to clone the repository
-1. git clone https://github.com/your-username/skin-cancer-classification.git
-2. cd skin-cancer-classification
+1. git clone https://github.com/milap573/zrock-internship-2024-project2.git
+2. cd zrock-internship-2024-project2
 
 # Install dependencies
 pip install -r requirements.txt
