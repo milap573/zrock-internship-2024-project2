@@ -33,10 +33,10 @@ Download dataset used in this project from here: https://www.kaggle.com/datasets
 3. skin_cancer_classifier.h5: Final trained model for skin cancer detection from images, ready for deployment in medical diagnostics.
 4. requirements.txt
 
-#Installation
+# Installation
 Use the following commands to clone the repository
 1. git clone https://github.com/your-username/skin-cancer-classification.git
 2. cd skin-cancer-classification
 
-#Install dependencies
+# Install dependencies
 pip install -r requirements.txt
