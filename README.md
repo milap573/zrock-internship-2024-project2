@@ -9,7 +9,7 @@ This project aims to develop a machine learning model to classify skin lesions a
 # Dataset
 Download dataset used in this project from here: https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset
 
-# Steps invloved
+# Steps involved
 
 1. Data Collection: Gathered a diverse dataset of skin lesion images, categorizing them into cancerous and non-cancerous classes. The dataset includes training and validation sets for model development and testing.
 2. Data Preprocessing: Applied preprocessing techniques such as resizing, normalization, and augmentation to the images. This step enhances model generalization and performance.
